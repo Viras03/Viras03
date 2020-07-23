@@ -4,6 +4,8 @@
 
 **Project** : https://bulkimagecompressor.com/
 
+Currently working on flask & django
+
 
 
 <!--
