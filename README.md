@@ -2,7 +2,7 @@
 
 **Web Developer**
 
-**Project** : [https://bulkimagecompressor.com/]
+**Project** : https://bulkimagecompressor.com/
 
 
 
