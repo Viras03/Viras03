@@ -2,7 +2,7 @@
 
 **Web Developer**
 
-**Project** : https://bulkimagecompressor.com/
+**Intern Project** : https://bulkimagecompressor.com/
 
 Currently working on flask & django
 
