@@ -1,10 +1,8 @@
 ### Hi 👋,I'm Viral!
 
-**Web Developer**
+**Assistant Application Developer at Oracle**
 
 **Intern Project** : https://bulkimagecompressor.com/
-
-Currently working on flask & django
 
 
 
